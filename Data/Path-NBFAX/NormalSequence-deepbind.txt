@@ -1,0 +1,1 @@
+Invalid model id "/gs/project/ymj-002-aa/dilmi/con/scoring/Path-NBFAX/NormalSequence.fasta"; should be of form D#####.###
